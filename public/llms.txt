@@ -1,0 +1,18 @@
+# AgentDesk
+
+> AgentDesk is an all-in-one software platform for real estate agencies, based in Harare, Zimbabwe. It lets agencies manage property listings, enquiries, tenants, leases, finances, and a branded public website from a single workspace.
+
+AgentDesk replaces spreadsheets and disconnected tools with one system covering: property management, enquiry/lead tracking, tenant and lease management, financial oversight (rent, commissions, balances), a website builder for agency public sites, and analytics on listings and team performance.
+
+Pricing is subscription-based across three tiers — Basic, Pro, and Custom; contact hello@agentdesk.co.zw for current plan details. AgentDesk is not a marketplace or listings portal for consumers — it is software sold to real estate agencies and property managers.
+
+## Key pages
+
+- [Homepage](https://agentdesk.co.zw/): product overview, features, pricing, FAQ
+- [Privacy Policy](https://agentdesk.co.zw/privacy): how AgentDesk collects and handles personal data
+- [Terms of Service](https://agentdesk.co.zw/terms): terms governing use of the AgentDesk platform
+
+## Contact
+
+- Email: hello@agentdesk.co.zw
+- Location: Harare, Zimbabwe
