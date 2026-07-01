@@ -27,7 +27,7 @@ export function CTA() {
               href="#get-started"
               className="gold-shine group inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-semibold text-ink transition-transform hover:scale-[1.03]"
             >
-              Claim your workspace — free
+              Claim your workspace
               <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
             </a>
             <a

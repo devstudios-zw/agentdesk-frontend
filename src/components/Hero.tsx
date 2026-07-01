@@ -67,16 +67,16 @@ export function Hero() {
               id="get-started"
               className="gold-shine group inline-flex items-center justify-center gap-2 rounded-full px-6 py-3.5 text-sm font-semibold text-ink transition-transform hover:scale-[1.03]"
             >
-              Claim your workspace — free
+              Claim your workspace
               <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
             </a>
-            <a
-              href="mailto:hilton@agentdesk.co.zw"
+            {/* <a
+              href="mailto:hello@agentdesk.co.zw"
               className="glass inline-flex items-center justify-center gap-2 rounded-full border border-white/15 px-6 py-3.5 text-sm font-semibold text-white transition-colors hover:bg-white/10"
             >
               <Mail size={18} />
               Contact us
-            </a>
+            </a> */}
           </motion.div>
 
         </div>
