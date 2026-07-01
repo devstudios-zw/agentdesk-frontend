@@ -102,7 +102,7 @@ export function Nav() {
                   Sign in
                 </a>
                 <a
-                  href="#get-started"
+                  href="https://app.agentdesk.co.zw/sign-up"
                   onClick={() => setOpen(false)}
                   className="gold-shine mt-1 rounded-full px-3 py-2.5 text-center font-bold uppercase tracking-wide text-ink"
                 >
