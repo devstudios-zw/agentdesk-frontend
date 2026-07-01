@@ -52,13 +52,13 @@ export function Nav() {
 
           <div className="hidden items-center gap-3 pr-1 md:flex">
             <a
-              href="#"
+              href="https://app.agentdesk.co.zw"
               className="text-sm font-bold uppercase tracking-wide text-white transition-colors hover:text-accent"
             >
               Sign in
             </a>
             <a
-              href="#get-started"
+              href="https://app.agentdesk.co.zw/sign-up"
               className="gold-shine whitespace-nowrap rounded-full px-4 py-2 text-sm font-bold uppercase tracking-wide text-ink transition-transform hover:scale-[1.03]"
             >
               Get started
